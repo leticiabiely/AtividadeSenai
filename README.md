@@ -10,3 +10,5 @@ criado o Staging.
 feito o o readme.md
 
 criado o .gitignore
+
+feito as branchs
