@@ -7,4 +7,4 @@ Foi vinculado o repositorio local com o remoto.
 
 criado o Staging.
 
-
+feito o o readme.md
